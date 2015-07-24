@@ -3,7 +3,7 @@
 "       Character 
 "
 " ---------------------------------------------
- let Character = {}
+let Character = {}
 
 " A character objet holds
 " - a character 
